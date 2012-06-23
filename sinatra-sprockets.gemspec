@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
 
   s.rubyforge_project = s.name
 
-  s.add_runtime_dependency 'sprockets',       '~> 2.0.0'
+  s.add_runtime_dependency 'sprockets',       '~> 2.1.2'
   s.add_runtime_dependency 'uglifier'
   s.add_runtime_dependency 'closure-compiler'
   s.add_runtime_dependency 'yui-compressor'
